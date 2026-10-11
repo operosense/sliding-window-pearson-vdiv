@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Sliding-window Pearson correlation for operando battery chemo-mechanics: data and code"
+authors:
+  - family-names: Do
+    given-names: Quyen
+    affiliation: "Norwegian University of Science and Technology (NTNU)"
+  - family-names: Nguyen
+    given-names: Hung Quoc
+    affiliation: "Norwegian University of Science and Technology (NTNU)"
+  - family-names: Rettenwander
+    given-names: Daniel
+    affiliation: "Norwegian University of Science and Technology (NTNU)"
+  - family-names: Boles
+    given-names: Steven T.
+    affiliation: "Norwegian University of Science and Technology (NTNU)"
+license: MIT
+keywords:
+  - battery
+  - operando
+  - chemo-mechanics
+  - Pearson correlation
+  - fibre Bragg grating
+preferred-citation:
+  type: article
+  title: "Decoupling the chemo-mechanical response during battery cycling using sliding-window Pearson correlation"
+  authors:
+    - family-names: Do
+      given-names: Quyen
+    - family-names: Nguyen
+      given-names: Hung Quoc
+    - family-names: Rettenwander
+      given-names: Daniel
+    - family-names: Boles
+      given-names: Steven T.
+  journal: "Journal of Physics: Energy"
+  year: 2026
+  doi: "10.1088/2515-7655/aeb06e"
